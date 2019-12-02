@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1557483361 source:/home/anhpc03/Documents/C++/compaireTime/main.cpp
+	<iostream>
+	<chrono>
+	<fstream>
+	<cstdlib>
+

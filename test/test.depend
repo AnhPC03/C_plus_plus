@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1557412507 source:/home/anhpc03/Documents/C++/test/main.cpp
+	<iostream>
+	<chrono>
+	<fstream>
+	<cstdlib>
+
